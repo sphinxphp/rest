@@ -1,4 +1,4 @@
 rest
 ====
 
-REST interface to Sphinx
+REST interface to Sphinx using Silex
